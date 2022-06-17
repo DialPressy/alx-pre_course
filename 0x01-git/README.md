@@ -1,1 +1,1 @@
-This is going to be a wonderful ride
+How to be up to date in git
